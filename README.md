@@ -7,16 +7,16 @@ Rebuild the ddip application
 USER
 --------
 
-- [v] Sign Up
+- [ ] Sign Up
 - [ ] Verify Phone
-- [v] Sign In
-- [v] Get User
+- [ ] Sign In
+- [ ] Get User
 - [ ] Get Me
-- [v] Update User
-- [v] Delete User (사용자, 관리자)
-- [v] Get Users (관리자)
+- [ ] Update User
+- [ ] Delete User (사용자, 관리자)
+- [ ] Get Users (관리자)
 
 AUTH
 --------
-- [v] check Token
-- [v] renew AccessToken
+- [ ] check Token
+- [ ] renew AccessToken
