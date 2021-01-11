@@ -18,5 +18,5 @@ USER
 
 AUTH
 --------
-- [ ] checkToken
-- [ ] renewAccessToken
+- [ ] check Token
+- [ ] renew AccessToken
