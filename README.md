@@ -7,7 +7,7 @@ Rebuild the ddip application
 USER
 --------
 
-- [ ] Sign Up
+- [X] Sign Up
 - [ ] Verify Phone
 - [X] Sign In
 - [X] Get User
